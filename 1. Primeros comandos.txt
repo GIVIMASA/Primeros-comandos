@@ -1,0 +1,253 @@
+
+gisemasa@PEPS2Q1GG63 MINGW64 ~
+$ pwd
+/c/Users/gisemasa
+
+gisemasa@PEPS2Q1GG63 MINGW64 ~
+$ cd /
+
+gisemasa@PEPS2Q1GG63 MINGW64 /
+$ ls
+LICENSE.txt        cmd/  git-bash.exe*  proc/         unins000.exe*
+ReleaseNotes.html  dev/  git-cmd.exe*   tmp/          unins000.msg
+bin/               etc/  mingw64/       unins000.dat  usr/
+
+gisemasa@PEPS2Q1GG63 MINGW64 /
+$ ls -al
+total 5456
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:17 ./
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:17 ../
+-rw-r--r-- 1 gisemasa 1049089   18765 Mar 14 07:35 LICENSE.txt
+-rw-r--r-- 1 gisemasa 1049089  239405 Mar 14 07:36 ReleaseNotes.html
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 bin/
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 cmd/
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 dev/
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:17 etc/
+-rwxr-xr-x 1 gisemasa 1049089  137264 Mar 14 07:12 git-bash.exe*
+-rwxr-xr-x 1 gisemasa 1049089  136736 Mar 14 07:12 git-cmd.exe*
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 mingw64/
+dr-xr-xr-x 9 gisemasa 1049089       0 Apr  9 23:38 proc/
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 23:37 tmp/
+-rw-r--r-- 1 gisemasa 1049089 1580186 Apr  9 01:16 unins000.dat
+-rwxr-xr-x 1 gisemasa 1049089 3215248 Apr  9 01:11 unins000.exe*
+-rw-r--r-- 1 gisemasa 1049089   24183 Apr  9 01:16 unins000.msg
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 usr/
+
+gisemasa@PEPS2Q1GG63 MINGW64 /
+$ ls -l
+total 5448
+-rw-r--r-- 1 gisemasa 1049089   18765 Mar 14 07:35 LICENSE.txt
+-rw-r--r-- 1 gisemasa 1049089  239405 Mar 14 07:36 ReleaseNotes.html
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 bin/
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 cmd/
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 dev/
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:17 etc/
+-rwxr-xr-x 1 gisemasa 1049089  137264 Mar 14 07:12 git-bash.exe*
+-rwxr-xr-x 1 gisemasa 1049089  136736 Mar 14 07:12 git-cmd.exe*
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 mingw64/
+dr-xr-xr-x 9 gisemasa 1049089       0 Apr  9 23:38 proc/
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 23:37 tmp/
+-rw-r--r-- 1 gisemasa 1049089 1580186 Apr  9 01:16 unins000.dat
+-rwxr-xr-x 1 gisemasa 1049089 3215248 Apr  9 01:11 unins000.exe*
+-rw-r--r-- 1 gisemasa 1049089   24183 Apr  9 01:16 unins000.msg
+drwxr-xr-x 1 gisemasa 1049089       0 Apr  9 01:16 usr/
+
+gisemasa@PEPS2Q1GG63 MINGW64 /
+$ cd /c
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c
+$ ls
+'$Recycle.Bin'/             Recovery/
+'Archivos de programa'@     SMSTSLog/
+ BOOTNXT                    SupportAssist/
+ CheckPoint/               'System Volume Information'/
+ Config.Msi/                TeradataToolsAndUtilitiesBase16.20.10.00/
+ Dell/                      TeradataToolsAndUtilitiesBase16.20.10.00.zip
+'Documents and Settings'@   Users/
+ DumpStack.log             'Uso KeePass Password Safe.pdf'
+ DumpStack.log.tmp          Windows/
+ Intel/                     bootmgr
+ OneDriveTemp/              caimcp_debug.log
+ Oracle/                    hiberfil.sys
+ PerfLogs/                  ms-msdt.reg
+ PowerBuilder/              pagefile.sys
+'Program Files'/            smsbootsect.bak
+'Program Files (x86)'/      swapfile.sys
+ ProgramData/               trac_msi.log
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c
+$ cd Us
+Users/                         Uso KeePass Password Safe.pdf
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c
+$ cd Us
+Users/                         Uso KeePass Password Safe.pdf
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c
+$ cd Users/
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c/Users
+$ cd ..
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c
+$ cd C:\Users\gisemasa\OneDrive - Seguros Suramericana, S.A\Documentos\Platzi_Data_Science
+bash: cd: too many arguments
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c
+$ ^C
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c
+$ cd  C:/Users/gisemasa/OneDrive - Seguros Suramericana, S.A/Documentos/Platzi_Data_Science
+bash: cd: too many arguments
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c
+$ cd D/
+bash: cd: D/: No such file or directory
+
+gisemasa@PEPS2Q1GG63 MINGW64 /c
+$ cd /
+
+gisemasa@PEPS2Q1GG63 MINGW64 /
+$ cd D/
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D
+$ mkdir Curso_Data_Science_Platzi
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D
+$ mkdir Git y Github
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D
+$ mkdir GIT_GITHUB
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D
+$ ls
+'$RECYCLE.BIN'/               GIT_GITHUB/
+ Curso_Data_Science_Platzi/  'System Volume Information'/
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D
+$ cd ^C
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D
+$ cd GIT_GITHUB/
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D/GIT_GITHUB
+$ touch vacio.txt
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D/GIT_GITHUB
+$ cat vacio.txt
+Mensaje secreto
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D/GIT_GITHUB
+$ history
+    1  ls
+    2  cd
+    3  pwd
+    4  cd /
+    5  ls
+    6  ls -al
+    7  ls -l
+    8  cd /c
+    9  ls
+   10  cd Users/
+   11  cd ..
+   12  cd C:\Users\gisemasa\OneDrive - Seguros Suramericana, S.A\Documentos\Platzi_Data_Science
+   13  cd  C:/Users/gisemasa/OneDrive - Seguros Suramericana, S.A/Documentos/Platzi_Data_Science
+   14  cd D/
+   15  cd /
+   16  cd D/
+   17  mkdir Curso_Data_Science_Platzi
+   18  mkdir Git y Github
+   19  mkdir GIT_GITHUB
+   20  ls
+   21  cd GIT_GITHUB/
+   22  touch vacio.txt
+   23  cat vacio.txt
+   24  history
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D/GIT_GITHUB
+$ 23
+bash: 23: command not found
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D/GIT_GITHUB
+$ !23
+cat vacio.txt
+Mensaje secreto
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D/GIT_GITHUB
+$ history
+    1  ls
+    2  cd
+    3  pwd
+    4  cd /
+    5  ls
+    6  ls -al
+    7  ls -l
+    8  cd /c
+    9  ls
+   10  cd Users/
+   11  cd ..
+   12  cd C:\Users\gisemasa\OneDrive - Seguros Suramericana, S.A\Documentos\Platzi_Data_Science
+   13  cd  C:/Users/gisemasa/OneDrive - Seguros Suramericana, S.A/Documentos/Platzi_Data_Science
+   14  cd D/
+   15  cd /
+   16  cd D/
+   17  mkdir Curso_Data_Science_Platzi
+   18  mkdir Git y Github
+   19  mkdir GIT_GITHUB
+   20  ls
+   21  cd GIT_GITHUB/
+   22  touch vacio.txt
+   23  cat vacio.txt
+   24  history
+   25  23
+   26  cat vacio.txt
+   27  history
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D/GIT_GITHUB
+$ rm vacio.txt
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D/GIT_GITHUB
+$ rm --help
+Usage: rm [OPTION]... [FILE]...
+Remove (unlink) the FILE(s).
+
+  -f, --force           ignore nonexistent files and arguments, never prompt
+  -i                    prompt before every removal
+  -I                    prompt once before removing more than three files, or
+                          when removing recursively; less intrusive than -i,
+                          while still giving protection against most mistakes
+      --interactive[=WHEN]  prompt according to WHEN: never, once (-I), or
+                          always (-i); without WHEN, prompt always
+      --one-file-system  when removing a hierarchy recursively, skip any
+                          directory that is on a file system different from
+                          that of the corresponding command line argument
+      --no-preserve-root  do not treat '/' specially
+      --preserve-root[=all]  do not remove '/' (default);
+                              with 'all', reject any command line argument
+                              on a separate device from its parent
+  -r, -R, --recursive   remove directories and their contents recursively
+  -d, --dir             remove empty directories
+  -v, --verbose         explain what is being done
+      --help     display this help and exit
+      --version  output version information and exit
+
+By default, rm does not remove directories.  Use the --recursive (-r or -R)
+option to remove each listed directory, too, along with all of its contents.
+
+To remove a file whose name starts with a '-', for example '-foo',
+use one of these commands:
+  rm -- -foo
+
+  rm ./-foo
+
+Note that if you use rm to remove a file, it might be possible to recover
+some of its contents, given sufficient expertise and/or time.  For greater
+assurance that the contents are truly unrecoverable, consider using shred.
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Report any translation bugs to <https://translationproject.org/team/>
+Full documentation <https://www.gnu.org/software/coreutils/rm>
+or available locally via: info '(coreutils) rm invocation'
+
+gisemasa@PEPS2Q1GG63 MINGW64 /D/GIT_GITHUB
+$
